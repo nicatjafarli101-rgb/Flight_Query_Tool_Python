@@ -4,7 +4,7 @@
 - ChatGPT (OpenAI, GPT-6).
 
 ## Conversation links
-- Add the share URL for this ChatGPT conversation before submitting.
+https://chatgpt.com/share/6b05d9e6-f070-83eb-86c6-c54e3c3ae20b
 
 ## What I used them for
 - Understanding the assignment requirements and public-test failures.
